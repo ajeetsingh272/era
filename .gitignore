@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+data/
+*.db
+*.db-*
+.env
+.env.local
+.env.*.local
+next-env.d.ts
+*.tsbuildinfo
+coverage/
+public/uploads/
+.playwright-mcp/

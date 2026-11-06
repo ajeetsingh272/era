@@ -1,0 +1,1429 @@
+{
+  "business": {
+    "phone": "098983 58156",
+    "tel": "+919898358156",
+    "email": "info@yourwebsite.com",
+    "address": "306, Gala Hub ANX, Gala Gymkhana Rd, South Bopal, Bopal, Ahmedabad, Gujarat 380058",
+    "web": "www.yourwebsite.com"
+  },
+  "products": [
+    {
+      "slug": "stone",
+      "name": "Natural Stone",
+      "tagline": "Timeless elegance, straight from the earth.",
+      "description": "Natural stone for cladding and flooring that brings depth and character to every wall and floor. Each slab carries its own pattern, so no two spaces look alike.",
+      "sortOrder": 0,
+      "published": true,
+      "heroImage": "/images/stone_h.jpg",
+      "swatchImage": "/images/stone_s.jpg",
+      "content": {
+        "overview": "ERA natural stone comes in a wide range of varieties, each cut and finished for walls, floors and landscapes. Because every slab is formed by nature, the veining, grain and colour change from piece to piece, which gives your space a finish no printed material can copy.",
+        "features": [
+          {
+            "title": "Natural beauty",
+            "detail": "Every slab carries its own veining and grain."
+          },
+          {
+            "title": "Durable & strong",
+            "detail": "Hard-wearing surfaces that last for decades."
+          },
+          {
+            "title": "Wide range of stones",
+            "detail": "Marble to slate, so you can match any style."
+          },
+          {
+            "title": "Indoor & outdoor use",
+            "detail": "Works on facades, lobbies, patios and bathrooms."
+          }
+        ],
+        "uses": [
+          "Feature walls and exterior cladding",
+          "Living room and lobby flooring",
+          "Driveways, steps and landscaping"
+        ],
+        "varieties": [
+          "Marble",
+          "Granite",
+          "Sandstone",
+          "Limestone",
+          "Slate",
+          "Quartzite",
+          "Travertine",
+          "Stone cladding"
+        ],
+        "specs": [
+          {
+            "label": "Varieties",
+            "value": "Marble, granite, sandstone, limestone, slate, quartzite, travertine"
+          },
+          {
+            "label": "Finishes",
+            "value": "Polished, honed, flamed, brushed, natural split"
+          },
+          {
+            "label": "Formats",
+            "value": "Slabs, tiles, strips and stone cladding panels"
+          },
+          {
+            "label": "Use",
+            "value": "Walls, floors, steps, countertops, landscaping"
+          }
+        ],
+        "care": [
+          "Seal the surface after installation, especially marble, limestone and travertine.",
+          "Clean with a pH-neutral cleaner and avoid acids.",
+          "Wipe spills quickly to prevent stains."
+        ],
+        "gallery": [
+          "/images/stone_x1.jpg",
+          "/images/stone_x2.jpg",
+          "/images/stone_x3.jpg"
+        ],
+        "types": [
+          {
+            "name": "Marble",
+            "description": "A metamorphic stone formed from limestone, known for flowing veins and a polished shine. Softer than granite, so it needs sealing and gentle cleaners.",
+            "bestFor": "Indoor floors, feature walls, vanities",
+            "image": "/images/stone_t1.jpg"
+          },
+          {
+            "name": "Granite",
+            "description": "An igneous stone made of quartz, feldspar and mica crystals, which gives the speckled look. Very hard and resistant to scratches, heat and weather.",
+            "bestFor": "Outdoor floors, steps, kitchen counters",
+            "image": "/images/stone_t2.jpg"
+          },
+          {
+            "name": "Sandstone",
+            "description": "Formed from compressed sand grains, with warm earthy tones and a natural grip. It is porous, so sealing helps outdoors.",
+            "bestFor": "Wall cladding, garden paving, sit-outs",
+            "image": "/images/stone_t3.jpg"
+          },
+          {
+            "name": "Limestone",
+            "description": "A calcium-rich sedimentary stone with a soft, even, pale colour and fine pits. It suits calm interiors but reacts to acids.",
+            "bestFor": "Interior floors, wall panels, fireplaces",
+            "image": "/images/stone_t4.jpg"
+          },
+          {
+            "name": "Slate",
+            "description": "A fine-grained metamorphic stone that splits into thin layers. Dark tones, a naturally rough surface, and strong against water and slips.",
+            "bestFor": "Bathrooms, patios, wall cladding",
+            "image": "/images/stone_t5.jpg"
+          },
+          {
+            "name": "Quartzite",
+            "description": "Sandstone transformed by heat and pressure into very hard, dense stone with a light crystal-like shimmer. Low water absorption.",
+            "bestFor": "Kitchen tops, outdoor floors, facades",
+            "image": "/images/stone_t6.jpg"
+          },
+          {
+            "name": "Travertine",
+            "description": "A sedimentary stone from mineral springs, with natural bands and small pits. Stays cooler underfoot; pits come filled or unfilled.",
+            "bestFor": "Pool surrounds, terraces, bathrooms",
+            "image": "/images/stone_t7.jpg"
+          },
+          {
+            "name": "Stone cladding",
+            "description": "Thin split-stone pieces stacked in rows (ledgestone) to give a rough, layered 3D wall. Lighter than full stone blocks.",
+            "bestFor": "Feature walls, exteriors, fireplaces",
+            "image": "/images/stone_t8.jpg"
+          }
+        ],
+        "material": {
+          "text": "Natural stone forms over millions of years from minerals in the earth. It is cut from quarries and finished, but never changed into another material.",
+          "components": [
+            "Natural rock",
+            "Marble",
+            "Granite",
+            "Sandstone",
+            "Limestone",
+            "Slate",
+            "Quartzite",
+            "Travertine"
+          ],
+          "benefits": [
+            {
+              "title": "Lasts for decades",
+              "detail": "Hard stone resists daily wear and weather."
+            },
+            {
+              "title": "Unique look",
+              "detail": "No two slabs share the same pattern."
+            },
+            {
+              "title": "Adds value",
+              "detail": "Stone is seen as a premium finish."
+            },
+            {
+              "title": "Cool underfoot",
+              "detail": "Stays comfortable in warm climates."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Natural stone is quarried rock cut into slabs, tiles or panels. Each type has its own hardness, porosity and look.",
+          "made": "Blocks are cut at the quarry, then sawn, calibrated and finished (polished, honed, flamed or brushed) in the factory.",
+          "install": "Fix with suitable adhesive on a level, dry base. Use movement joints on large outdoor areas.",
+          "pros": [
+            "Long life when installed and sealed properly",
+            "Every piece is unique",
+            "Stays cool underfoot in hot weather"
+          ],
+          "cons": [
+            "Heavy, so it needs a strong base",
+            "Marble and limestone can stain or etch without sealing"
+          ],
+          "faqs": [
+            {
+              "q": "Which stone is best for outdoors?",
+              "a": "Granite, sandstone, slate and quartzite usually cope best with weather and wear. Choose a textured or flamed finish for grip."
+            },
+            {
+              "q": "Does stone need sealing?",
+              "a": "Porous stones such as marble, limestone and travertine should be sealed. Granite and quartzite need less."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ipe",
+      "name": "IPE Wood Floor",
+      "tagline": "Natural strength. Lasting beauty.",
+      "description": "Premium IPE hardwood is dense, weather resistant and naturally rich in colour. A top choice for decks that face sun, rain and heavy footfall.",
+      "sortOrder": 1,
+      "published": true,
+      "heroImage": "/images/ipe_h.jpg",
+      "swatchImage": "/images/ipe_s.jpg",
+      "content": {
+        "overview": "IPE is one of the densest hardwoods used for decking. Its tight grain and natural oils make it resist moisture, insects and heavy wear, so it suits pool decks and terraces that face sun and rain every day.",
+        "features": [
+          {
+            "title": "Premium hardwood",
+            "detail": "Dense, tight-grained timber with rich brown tones."
+          },
+          {
+            "title": "Weather resistant",
+            "detail": "Handles sun, rain and humidity well."
+          },
+          {
+            "title": "High durability",
+            "detail": "Built for years of heavy footfall."
+          },
+          {
+            "title": "Ideal for outdoor areas",
+            "detail": "Made for decks, pergolas and open terraces."
+          }
+        ],
+        "uses": [
+          "Pool decks and terraces",
+          "Balconies and garden walkways",
+          "High-traffic outdoor areas"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Material",
+            "value": "Solid IPE hardwood"
+          },
+          {
+            "label": "Typical thickness",
+            "value": "19 to 25 mm"
+          },
+          {
+            "label": "Finish",
+            "value": "Smooth or grooved surface"
+          },
+          {
+            "label": "Use",
+            "value": "Decks, terraces, pool surrounds, walkways"
+          }
+        ],
+        "care": [
+          "Rinse with water and a soft brush to remove dust.",
+          "Apply a UV-protective oil once or twice a year to keep the colour warm.",
+          "Leave it unoiled if you prefer a natural silver-grey ageing."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Natural IPE (fresh)",
+            "description": "Freshly milled boards show warm reddish-brown tones with a tight grain. Usually sold smooth or reeded for grip.",
+            "bestFor": "Pool decks, terraces",
+            "image": "/images/ipe_t1.jpg"
+          },
+          {
+            "name": "Oiled IPE",
+            "description": "A UV-protective oil deepens the colour to a rich dark brown and slows weathering. Re-oil once or twice a year.",
+            "bestFor": "Visible decks, premium homes",
+            "image": "/images/ipe_t2.jpg"
+          },
+          {
+            "name": "Weathered grey IPE",
+            "description": "Left unoiled outdoors, the surface turns silver-grey. This is only a colour change, the timber stays strong.",
+            "bestFor": "Modern, natural-look gardens",
+            "image": "/images/ipe_t3.jpg"
+          }
+        ],
+        "material": {
+          "text": "IPE comes from the heartwood of tropical trees, so there is no plastic or filler. Its natural oils and dense grain give the protection.",
+          "components": [
+            "Solid IPE hardwood",
+            "Natural wood oils",
+            "Kiln-dried timber"
+          ],
+          "benefits": [
+            {
+              "title": "Very hard and strong",
+              "detail": "Handles heavy footfall and furniture."
+            },
+            {
+              "title": "Resists rot and insects",
+              "detail": "Natural oils keep moisture and pests out."
+            },
+            {
+              "title": "Premium appearance",
+              "detail": "Deep brown tones look rich outdoors."
+            },
+            {
+              "title": "Long service life",
+              "detail": "Can last for years with simple care."
+            }
+          ]
+        },
+        "guide": {
+          "about": "IPE, often called Brazilian walnut, is a very dense tropical hardwood. Its tight grain makes it hard, heavy and naturally resistant to decay.",
+          "made": "Logs are milled into boards, kiln-dried and surfaced. We recommend buying from certified, legal sources.",
+          "install": "Pre-drill every screw, use stainless steel fixings and leave small gaps between boards for drainage and ventilation.",
+          "pros": [
+            "Very hard and long lasting",
+            "Naturally resists rot and insects",
+            "Rich brown colour with a premium look"
+          ],
+          "cons": [
+            "Heavy, so cutting and drilling need good tools and pre-drilling",
+            "Turns silver-grey in sun unless oiled"
+          ],
+          "faqs": [
+            {
+              "q": "Does IPE get hot in the sun?",
+              "a": "Dark boards warm up in direct sun, but they usually feel more comfortable than stone or concrete."
+            },
+            {
+              "q": "Will it fade?",
+              "a": "Sunlight slowly turns it silver-grey. A UV oil applied regularly keeps the original tone."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "wpc",
+      "name": "WPC Floor & Cladding",
+      "tagline": "Modern look. Low maintenance.",
+      "description": "Wood plastic composite that gives the warmth of timber without the upkeep. Available in a wide range of colours and textures for floors and wall cladding.",
+      "sortOrder": 2,
+      "published": true,
+      "heroImage": "/images/wpc_h.jpg",
+      "swatchImage": "/images/wpc_s.jpg",
+      "content": {
+        "overview": "WPC blends wood fibre and polymer into boards that look like timber but need far less care. It does not rot or attract termites, which makes it a smart choice for decks and louvre-style cladding in humid or sunny places.",
+        "features": [
+          {
+            "title": "Water resistant",
+            "detail": "Does not swell or rot when wet."
+          },
+          {
+            "title": "Termite proof",
+            "detail": "Not affected by termites."
+          },
+          {
+            "title": "Low maintenance",
+            "detail": "No polishing or repainting needed."
+          },
+          {
+            "title": "Eco friendly",
+            "detail": "Made with recycled materials and wood fibre."
+          }
+        ],
+        "uses": [
+          "Outdoor decking and flooring",
+          "Louvre-style wall cladding",
+          "Fences, planters and facades"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Products",
+            "value": "Hollow and solid decking, wall cladding, fluted panels"
+          },
+          {
+            "label": "Textures",
+            "value": "Wood grain, embossed and brushed"
+          },
+          {
+            "label": "Colours",
+            "value": "Teak, walnut, grey, charcoal and more"
+          },
+          {
+            "label": "Use",
+            "value": "Decks, balconies, fences, facades, ceilings"
+          }
+        ],
+        "care": [
+          "Sweep and wash with mild soap and water.",
+          "No sealing or staining required.",
+          "Leave small expansion gaps during installation."
+        ],
+        "gallery": [
+          "/images/wpc_x1.jpg",
+          "/images/wpc_x2.jpg"
+        ],
+        "types": [
+          {
+            "name": "Teak-shade WPC",
+            "description": "Warm brown with wood-grain embossing. Popular for decks and cladding that need a natural timber look. Available in hollow or solid profiles.",
+            "bestFor": "Decks, balconies",
+            "image": "/images/wpc_t1.jpg"
+          },
+          {
+            "name": "Walnut-brown WPC",
+            "description": "A deeper brown that hides dust and footprints well. Co-extruded versions add a protective outer shell.",
+            "bestFor": "High-traffic decks, fences",
+            "image": "/images/wpc_t2.jpg"
+          },
+          {
+            "name": "Stone-grey WPC",
+            "description": "A cool grey that suits contemporary architecture and looks calm next to greenery.",
+            "bestFor": "Modern patios, facades",
+            "image": "/images/wpc_t3.jpg"
+          },
+          {
+            "name": "Charcoal WPC",
+            "description": "A dark, strong colour. Dark boards get warmer in direct sun, so shade or ventilation helps.",
+            "bestFor": "Louvre cladding, shaded decks",
+            "image": "/images/wpc_t4.jpg"
+          }
+        ],
+        "material": {
+          "text": "WPC is a composite. Wood fibre is blended with plastic and additives, then moulded under heat. You get a wood look with the water resistance of plastic.",
+          "components": [
+            "Wood fibre or flour",
+            "Polymer (such as PE or PVC)",
+            "UV and colour additives"
+          ],
+          "benefits": [
+            {
+              "title": "Low maintenance",
+              "detail": "No painting, sanding or polishing."
+            },
+            {
+              "title": "Water and termite resistant",
+              "detail": "Does not rot or get eaten by termites."
+            },
+            {
+              "title": "Consistent finish",
+              "detail": "Uniform colour and size across boards."
+            },
+            {
+              "title": "Often uses recycled content",
+              "detail": "Many products use recycled wood and plastic."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Wood plastic composite (WPC) mixes wood fibre with polymer and additives, then forms it into boards and panels.",
+          "made": "The mix is heated and pushed through a die to form hollow or solid profiles. Surfaces are then embossed or brushed for a wood-like texture.",
+          "install": "Fix on joists with clips, keep expansion gaps and make sure water can drain beneath the deck.",
+          "pros": [
+            "No painting, sanding or sealing",
+            "Resists moisture, rot and termites",
+            "Consistent colour and size"
+          ],
+          "cons": [
+            "Expands and contracts with heat, so gaps are needed",
+            "Dark colours get warm in direct sun"
+          ],
+          "faqs": [
+            {
+              "q": "Is WPC fully waterproof?",
+              "a": "It is highly water resistant, but drainage and ventilation underneath still matter for a long life."
+            },
+            {
+              "q": "Can it replace real wood?",
+              "a": "For decks and cladding, usually yes. It gives a wood look with less upkeep, though it is not real timber."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "engineered",
+      "name": "Engineered Wood Floor",
+      "tagline": "Real wood look with enhanced stability.",
+      "description": "A real wood surface layered over a stable core, so floors stay true through changing seasons. Easy to install and available in many finishes.",
+      "sortOrder": 3,
+      "published": true,
+      "heroImage": "/images/engineered_h.jpg",
+      "swatchImage": "/images/engineered_s.jpg",
+      "content": {
+        "overview": "Engineered wood floors have a real wood top layer bonded to a stable multi-layer base. You get the look and feel of solid timber, with better resistance to warping when humidity and temperature change.",
+        "features": [
+          {
+            "title": "Real wood appearance",
+            "detail": "A real wood surface with natural grain."
+          },
+          {
+            "title": "Dimensional stability",
+            "detail": "Layered core resists warping and gapping."
+          },
+          {
+            "title": "Easy installation",
+            "detail": "Click or glue-down options for quicker fitting."
+          },
+          {
+            "title": "Wide range of finishes",
+            "detail": "Light oak to deep walnut tones."
+          }
+        ],
+        "uses": [
+          "Bedrooms and living rooms",
+          "Homes, offices and showrooms",
+          "Spaces needing a warm, natural feel"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Construction",
+            "value": "Real wood veneer over multi-layer core"
+          },
+          {
+            "label": "Finishes",
+            "value": "Matt, brushed, oiled and lacquered"
+          },
+          {
+            "label": "Plank style",
+            "value": "Wide and standard planks"
+          },
+          {
+            "label": "Use",
+            "value": "Bedrooms, living rooms, offices, showrooms"
+          }
+        ],
+        "care": [
+          "Dust or vacuum regularly with a soft head.",
+          "Damp mop only, never soak the floor.",
+          "Use felt pads under furniture legs."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Oak",
+            "description": "The most popular species, with a light-to-mid tan colour and a clear grain. Hard-wearing and fits many styles.",
+            "bestFor": "Living rooms, bedrooms",
+            "image": "/images/engineered_t1.jpg"
+          },
+          {
+            "name": "Walnut",
+            "description": "Rich chocolate brown with a luxury feel. Softer than oak, so it suits lower-traffic rooms.",
+            "bestFor": "Bedrooms, studies",
+            "image": "/images/engineered_t2.jpg"
+          },
+          {
+            "name": "Teak",
+            "description": "Golden-brown timber with natural oils, known for a warm, classic look.",
+            "bestFor": "Living areas, offices",
+            "image": "/images/engineered_t3.jpg"
+          },
+          {
+            "name": "Ash",
+            "description": "Pale cream wood with a bold grain. Brightens small rooms and pairs well with minimal interiors.",
+            "bestFor": "Compact rooms, light interiors",
+            "image": "/images/engineered_t4.jpg"
+          }
+        ],
+        "material": {
+          "text": "A thin layer of real wood sits on top of several cross-layered wood boards. The layers pull against each other, which keeps the floor stable.",
+          "components": [
+            "Real hardwood top layer",
+            "Plywood or HDF core",
+            "Adhesive layers",
+            "Oil or lacquer finish"
+          ],
+          "benefits": [
+            {
+              "title": "Real wood look",
+              "detail": "The top layer is genuine hardwood."
+            },
+            {
+              "title": "Stays stable",
+              "detail": "Less swelling and gapping when weather changes."
+            },
+            {
+              "title": "Easy to install",
+              "detail": "Click or glue options save time."
+            },
+            {
+              "title": "Warm underfoot",
+              "detail": "Feels natural and comfortable."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Engineered wood has a real hardwood layer on top of plywood or fibreboard layers glued in cross directions.",
+          "made": "The top layer is sliced or sawn, pressed onto the core, then sanded and finished with oil or lacquer.",
+          "install": "Install floating, glued or nailed over a flat, dry subfloor and leave a gap along the walls.",
+          "pros": [
+            "Real wood look and feel",
+            "More stable than solid wood when humidity changes",
+            "Often suits underfloor heating (check the maker's limits)"
+          ],
+          "cons": [
+            "Deep scratches can show the core",
+            "The top layer can only be sanded a limited number of times"
+          ],
+          "faqs": [
+            {
+              "q": "Is engineered wood real wood?",
+              "a": "Yes, the visible top layer is real hardwood. The layers below add stability."
+            },
+            {
+              "q": "Can it be used in bathrooms?",
+              "a": "It is not recommended for wet areas. It suits living rooms, bedrooms and offices."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "laminate",
+      "name": "Laminate Wood Floor",
+      "tagline": "Stylish. Durable. Affordable.",
+      "description": "Premium matt finishes and elegant wood designs for modern interiors, with a tough surface that resists daily wear.",
+      "sortOrder": 4,
+      "published": true,
+      "heroImage": "/images/laminate_h.jpg",
+      "swatchImage": "/images/laminate_s.jpg",
+      "content": {
+        "overview": "Laminate gives you a wood look at a friendly price. A tough wear layer protects the print from scratches and daily traffic, and the matt finishes suit modern, minimal rooms.",
+        "features": [
+          {
+            "title": "Scratch resistant",
+            "detail": "A tough top layer that resists everyday scuffs."
+          },
+          {
+            "title": "Easy maintenance",
+            "detail": "Sweep and wipe; no polishing needed."
+          },
+          {
+            "title": "Wide range of designs",
+            "detail": "Oak, walnut, grey and light natural tones."
+          },
+          {
+            "title": "Cost effective",
+            "detail": "A budget-friendly way to refresh a room."
+          }
+        ],
+        "uses": [
+          "Apartments and family homes",
+          "Offices and retail spaces",
+          "Quick, budget-friendly makeovers"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Construction",
+            "value": "High-density board with printed decor and wear layer"
+          },
+          {
+            "label": "Finishes",
+            "value": "Matt, textured and embossed"
+          },
+          {
+            "label": "Installation",
+            "value": "Click-lock floating system"
+          },
+          {
+            "label": "Use",
+            "value": "Homes, apartments, offices, retail"
+          }
+        ],
+        "care": [
+          "Wipe spills quickly and avoid standing water.",
+          "Use a slightly damp mop, not a wet one.",
+          "Fit protective pads under heavy furniture."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Natural oak decor",
+            "description": "A printed oak-look surface under a tough wear layer, the most versatile shade. Choose AC3 for homes and AC4 or AC5 for busy areas.",
+            "bestFor": "Homes, rentals",
+            "image": "/images/laminate_t1.jpg"
+          },
+          {
+            "name": "Dark walnut decor",
+            "description": "A deep brown print for a premium look. Dark colours show dust more, so regular sweeping helps.",
+            "bestFor": "Living rooms, offices",
+            "image": "/images/laminate_t2.jpg"
+          },
+          {
+            "name": "Grey oak decor",
+            "description": "A modern cool-grey tone that suits minimalist interiors.",
+            "bestFor": "Apartments, showrooms",
+            "image": "/images/laminate_t3.jpg"
+          },
+          {
+            "name": "White-wash decor",
+            "description": "A light, airy finish that makes rooms look bigger.",
+            "bestFor": "Small rooms, bright interiors",
+            "image": "/images/laminate_t4.jpg"
+          }
+        ],
+        "material": {
+          "text": "Laminate is built in layers: a fibreboard core, a printed wood-look paper and a hard transparent top layer, all pressed together.",
+          "components": [
+            "High-density fibreboard core",
+            "Printed decor paper",
+            "Clear wear layer",
+            "Backing layer"
+          ],
+          "benefits": [
+            {
+              "title": "Scratch resistant",
+              "detail": "The wear layer protects the print."
+            },
+            {
+              "title": "Easy to clean",
+              "detail": "Sweep and wipe with a slightly damp mop."
+            },
+            {
+              "title": "Budget friendly",
+              "detail": "Costs less than real wood."
+            },
+            {
+              "title": "Quick to fit",
+              "detail": "Click-lock planks float over the subfloor."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Laminate is a floating floor with a high-density fibreboard core, a printed wood-look layer and a clear wear layer.",
+          "made": "The layers are fused under heat and pressure, then cut into planks with click-lock edges.",
+          "install": "Lay over underlay on a flat, dry floor and keep a small expansion gap at the walls.",
+          "pros": [
+            "Affordable and quick to install",
+            "Resists scratches and fading",
+            "Wide choice of wood looks"
+          ],
+          "cons": [
+            "Not suitable for wet areas",
+            "Cannot be sanded or refinished"
+          ],
+          "faqs": [
+            {
+              "q": "How long does laminate last?",
+              "a": "With normal care it can last many years. Check the wear class when buying."
+            },
+            {
+              "q": "Can it go over old tiles?",
+              "a": "Often yes, if the tiles are flat and firmly fixed. Level any uneven joints first."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "carpet",
+      "name": "Carpet",
+      "tagline": "Comfort under every step.",
+      "description": "Soft, warm carpeting in a wide choice of textures and colours. It absorbs sound and makes rooms feel calm and finished.",
+      "sortOrder": 5,
+      "published": true,
+      "heroImage": "/images/carpet_h.jpg",
+      "swatchImage": "/images/carpet_s.jpg",
+      "content": {
+        "overview": "Carpet adds warmth underfoot and softens sound, which makes rooms feel quiet and finished. Choose from soft textured piles in neutral and bold colours for bedrooms, lounges and offices.",
+        "features": [
+          {
+            "title": "Soft & comfortable",
+            "detail": "Soft underfoot, warm in cooler months."
+          },
+          {
+            "title": "Sound absorption",
+            "detail": "Reduces echo and footstep noise."
+          },
+          {
+            "title": "Wide range of textures",
+            "detail": "Loop, cut and textured piles."
+          },
+          {
+            "title": "Suitable for homes & offices",
+            "detail": "Fits homes, offices and meeting rooms."
+          }
+        ],
+        "uses": [
+          "Bedrooms and lounges",
+          "Offices and meeting rooms",
+          "Hotels and conference halls"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Styles",
+            "value": "Cut pile, loop pile, textured, tile and roll"
+          },
+          {
+            "label": "Colours",
+            "value": "Beige, grey, blue, brown, red and more"
+          },
+          {
+            "label": "Use",
+            "value": "Bedrooms, lounges, offices, hotels, halls"
+          },
+          {
+            "label": "Installation",
+            "value": "Wall-to-wall or modular tiles"
+          }
+        ],
+        "care": [
+          "Vacuum at least once or twice a week.",
+          "Blot spills right away, do not rub.",
+          "Schedule a deep clean every year or two."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Cut pile",
+            "description": "Yarn loops are cut to give a soft, plush surface. Feels luxurious but can show footprints.",
+            "bestFor": "Bedrooms, lounges",
+            "image": "/images/carpet_t1.jpg"
+          },
+          {
+            "name": "Loop pile (berber)",
+            "description": "Uncut loops make a tough, textured surface that hides dirt well.",
+            "bestFor": "Offices, corridors, stairs",
+            "image": "/images/carpet_t2.jpg"
+          },
+          {
+            "name": "Shag / frieze",
+            "description": "Long, twisted strands give a deep, cosy feel. Needs regular vacuuming to stay fluffy.",
+            "bestFor": "Bedrooms, kids' rooms",
+            "image": "/images/carpet_t3.jpg"
+          },
+          {
+            "name": "Patterned carpet",
+            "description": "Woven or printed designs that hide wear and stains. Often used in hotels and halls.",
+            "bestFor": "Hotels, banquet halls, offices",
+            "image": "/images/carpet_t4.jpg"
+          }
+        ],
+        "material": {
+          "text": "Carpet yarn is tufted or woven into a backing and locked in with adhesive. The fibre you choose decides softness, stain resistance and life.",
+          "components": [
+            "Nylon, polyester or wool yarn",
+            "Primary backing",
+            "Latex adhesive",
+            "Secondary backing"
+          ],
+          "benefits": [
+            {
+              "title": "Soft and warm",
+              "detail": "Comfortable to walk and sit on."
+            },
+            {
+              "title": "Reduces noise",
+              "detail": "Soft fibres absorb sound and echo."
+            },
+            {
+              "title": "Cushions footsteps",
+              "detail": "Gives grip and a softer landing."
+            },
+            {
+              "title": "Many styles",
+              "detail": "Colours and textures for any room."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Carpet is a soft floor covering made of yarn tufted or woven into a backing. Common fibres are nylon, polyester and wool blends.",
+          "made": "Yarn is tufted into a backing, then cut or looped, dyed and finished with a secondary backing.",
+          "install": "Fit over underlay with stretching, or choose carpet tiles for easy replacement.",
+          "pros": [
+            "Warm and comfortable underfoot",
+            "Absorbs sound",
+            "Adds colour and softness to a room"
+          ],
+          "cons": [
+            "Needs regular vacuuming",
+            "Can stain, so a stain-resistant fibre helps"
+          ],
+          "faqs": [
+            {
+              "q": "Which carpet suits offices?",
+              "a": "Dense loop pile or carpet tiles handle heavy traffic well and are easy to replace."
+            },
+            {
+              "q": "How often should I clean it?",
+              "a": "Vacuum once or twice a week and deep clean every year or two."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "glass",
+      "name": "Glass Mosaic",
+      "tagline": "Vibrant. Elegant. Versatile.",
+      "description": "Glass mosaic tiles that hold their colour and shine for years. Perfect for swimming pools, bathrooms, kitchens and decorative walls.",
+      "sortOrder": 6,
+      "published": true,
+      "heroImage": "/images/glass_h.jpg",
+      "swatchImage": "/images/glass_s.jpg",
+      "content": {
+        "overview": "Glass mosaic is made from small coloured glass tiles that hold their shine and colour. It is a classic choice for swimming pools and also works beautifully in bathrooms, kitchens and feature walls.",
+        "features": [
+          {
+            "title": "Water resistant",
+            "detail": "Does not absorb water, ideal for pools."
+          },
+          {
+            "title": "Easy to clean",
+            "detail": "A smooth surface that wipes clean."
+          },
+          {
+            "title": "Fade resistant",
+            "detail": "Colours stay bright in sun and water."
+          },
+          {
+            "title": "Pools & feature walls",
+            "detail": "Blues, greens, earth tones and mixed blends."
+          }
+        ],
+        "uses": [
+          "Swimming pools",
+          "Bathrooms and kitchen backsplashes",
+          "Decorative feature walls"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Material",
+            "value": "Coloured glass tiles on mesh sheets"
+          },
+          {
+            "label": "Colours",
+            "value": "Blues, greens, neutrals, mixed blends"
+          },
+          {
+            "label": "Finish",
+            "value": "Glossy, frosted or iridescent"
+          },
+          {
+            "label": "Use",
+            "value": "Pools, bathrooms, kitchens, feature walls"
+          }
+        ],
+        "care": [
+          "Wipe with a soft cloth and mild glass cleaner.",
+          "Avoid harsh abrasive pads.",
+          "Check grout joints once a year."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Crystal glass mosaic",
+            "description": "Clear, glossy glass tiles with deep colour and strong shine. The classic choice for swimming pools.",
+            "bestFor": "Pools, feature walls",
+            "image": "/images/glass_t1.jpg"
+          },
+          {
+            "name": "Frosted (matt) glass",
+            "description": "A matt, etched surface that softens reflections and feels less slippery than glossy glass.",
+            "bestFor": "Bathroom floors, steam rooms",
+            "image": "/images/glass_t2.jpg"
+          },
+          {
+            "name": "Iridescent (pearl) glass",
+            "description": "A thin coating shifts colour with the light angle, from teal to lilac. A decorative, eye-catching finish.",
+            "bestFor": "Accent walls, spas",
+            "image": "/images/glass_t3.jpg"
+          },
+          {
+            "name": "Metallic (gold / foil) glass",
+            "description": "Metal-foil layers or coatings give a gold or silver shine. Best on walls, away from heavy wear.",
+            "bestFor": "Backsplashes, feature walls",
+            "image": "/images/glass_t4.jpg"
+          },
+          {
+            "name": "Mixed-colour blend",
+            "description": "Several colours on one sheet for a natural, varied look. Hides small colour differences between batches.",
+            "bestFor": "Pools, kitchens, feature walls",
+            "image": "/images/glass_t5.jpg"
+          },
+          {
+            "name": "Crackle (ice) glass",
+            "description": "Fine crack patterns inside each tile give a frosted-ice effect with a soft, light look.",
+            "bestFor": "Bathrooms, kitchen walls",
+            "image": "/images/glass_t6.jpg"
+          }
+        ],
+        "material": {
+          "text": "Glass tiles are made from melted glass coloured with mineral oxides, cut small and fixed on mesh sheets for easy fitting.",
+          "components": [
+            "Glass",
+            "Colour oxides",
+            "Mesh sheet backing"
+          ],
+          "benefits": [
+            {
+              "title": "Waterproof surface",
+              "detail": "Glass does not absorb water."
+            },
+            {
+              "title": "Colour that lasts",
+              "detail": "Does not fade in sun or pool chemicals."
+            },
+            {
+              "title": "Easy to clean",
+              "detail": "The smooth surface wipes clean."
+            },
+            {
+              "title": "Reflects light",
+              "detail": "Makes pools and walls look brighter."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Glass mosaic is made of small glass tiles, usually mounted on mesh sheets for quick fixing.",
+          "made": "Coloured glass is melted, formed and cut into tiles, then mounted onto sheets.",
+          "install": "Use an adhesive made for glass and wet areas, and waterproof the surface before tiling.",
+          "pros": [
+            "Non-porous, so water does not soak in",
+            "Bright colours that do not fade",
+            "Smooth, easy-to-clean surface"
+          ],
+          "cons": [
+            "Needs a flat surface and careful fixing",
+            "Many grout lines to keep clean"
+          ],
+          "faqs": [
+            {
+              "q": "Can it be used in a pool?",
+              "a": "Yes, glass mosaic is widely used in pools. Use the right adhesive and grout."
+            },
+            {
+              "q": "Which grout colour works best?",
+              "a": "Match the grout to the tile for a seamless look, or contrast it to highlight the pattern."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "wallpaper",
+      "name": "Wallpaper",
+      "tagline": "Express your style.",
+      "description": "Transform your walls with beautiful designs and premium finishes, from soft botanicals to bold patterns.",
+      "sortOrder": 7,
+      "published": true,
+      "heroImage": "/images/wallpaper_h.jpg",
+      "swatchImage": "/images/wallpaper_s.jpg",
+      "content": {
+        "overview": "Wallpaper changes the mood of a room in a day. From soft botanicals to bold patterns, our premium finishes turn a plain wall into a feature that suits your style.",
+        "features": [
+          {
+            "title": "Wide range of designs",
+            "detail": "Botanical, geometric, textured and abstract."
+          },
+          {
+            "title": "Easy installation",
+            "detail": "Pasting is simple and tidy."
+          },
+          {
+            "title": "Stylish interiors",
+            "detail": "Adds depth to bedrooms, lounges and lobbies."
+          },
+          {
+            "title": "Homes & offices",
+            "detail": "Good for homes, cafes and offices."
+          }
+        ],
+        "uses": [
+          "Bedroom and living room accent walls",
+          "Cafes, offices and boutiques",
+          "Quick wall refreshes"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Patterns",
+            "value": "Botanical, geometric, textured, floral, abstract"
+          },
+          {
+            "label": "Colours",
+            "value": "Neutral, earthy and blue tones"
+          },
+          {
+            "label": "Finish",
+            "value": "Matt and premium textured"
+          },
+          {
+            "label": "Use",
+            "value": "Accent walls, bedrooms, living rooms, offices"
+          }
+        ],
+        "care": [
+          "Dust with a soft dry cloth.",
+          "Spot clean with a lightly damp sponge.",
+          "Keep walls dry and well ventilated before fitting."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Vinyl botanical",
+            "description": "Vinyl-coated paper with a printed leaf pattern. Wipes clean and handles humidity better than plain paper.",
+            "bestFor": "Bedrooms, hallways",
+            "image": "/images/wallpaper_t1.jpg"
+          },
+          {
+            "name": "Non-woven geometric",
+            "description": "A paper and fibre blend that is easy to hang and peels off in one piece.",
+            "bestFor": "Living rooms, offices",
+            "image": "/images/wallpaper_t2.jpg"
+          },
+          {
+            "name": "Grasscloth-style texture",
+            "description": "A woven look that adds depth and warmth. Real grasscloth needs careful handling; vinyl versions are easier to clean.",
+            "bestFor": "Feature walls, lounges",
+            "image": "/images/wallpaper_t3.jpg"
+          },
+          {
+            "name": "Striped embossed paper",
+            "description": "Subtle tone-on-tone stripes with raised texture, which makes ceilings look taller.",
+            "bestFor": "Dining rooms, hotel rooms",
+            "image": "/images/wallpaper_t4.jpg"
+          }
+        ],
+        "material": {
+          "text": "Wallpaper has a base of paper, vinyl or non-woven fibre, printed with inks and sometimes coated so it can be wiped.",
+          "components": [
+            "Paper, vinyl or non-woven base",
+            "Printed inks",
+            "Protective coating"
+          ],
+          "benefits": [
+            {
+              "title": "Instant makeover",
+              "detail": "Changes a room in a day."
+            },
+            {
+              "title": "Hides small flaws",
+              "detail": "Patterns cover minor wall marks."
+            },
+            {
+              "title": "No wet paint",
+              "detail": "No long drying or paint smell."
+            },
+            {
+              "title": "Huge choice",
+              "detail": "Patterns and colours for every taste."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Wallpaper is printed or embossed paper, vinyl or non-woven material applied to walls with paste.",
+          "made": "Patterns are printed on rolls, then finished with a coating or texture.",
+          "install": "Prepare and prime the wall, then paste and hang each drop, matching the pattern as you go.",
+          "pros": [
+            "Changes the mood of a room fast",
+            "Hides minor wall texture",
+            "Many patterns and colours"
+          ],
+          "cons": [
+            "Walls must be smooth, dry and primed",
+            "Pattern matching adds some waste"
+          ],
+          "faqs": [
+            {
+              "q": "Is wallpaper washable?",
+              "a": "Vinyl and coated papers can be wiped clean. Check the washability rating of each design."
+            },
+            {
+              "q": "How much do I need?",
+              "a": "Measure wall height and width and allow for the pattern repeat. We can help you calculate."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "grass",
+      "name": "Artificial Grass",
+      "tagline": "Green spaces and modern living.",
+      "description": "Beautiful, durable, low-maintenance artificial grass for homes, gardens and commercial spaces. Stays green all year with no watering or mowing.",
+      "sortOrder": 8,
+      "published": true,
+      "heroImage": "/images/grass_h.jpg",
+      "swatchImage": "/images/grass_s.jpg",
+      "content": {
+        "overview": "Artificial grass keeps gardens, balconies and play areas green all year without watering or mowing. A natural look and UV-stable fibres keep it fresh in strong sun.",
+        "features": [
+          {
+            "title": "Natural look",
+            "detail": "Realistic blades in natural green shades."
+          },
+          {
+            "title": "UV resistant",
+            "detail": "Fibres made to resist fading in sunlight."
+          },
+          {
+            "title": "Low maintenance",
+            "detail": "No watering, mowing or fertiliser."
+          },
+          {
+            "title": "Gardens, balconies & play areas",
+            "detail": "Lawns, rooftops, balconies and play zones."
+          }
+        ],
+        "uses": [
+          "Home lawns and terraces",
+          "Balconies and rooftop gardens",
+          "Play areas and commercial landscapes"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Pile",
+            "value": "Short, medium and long options"
+          },
+          {
+            "label": "Supply",
+            "value": "Rolls cut to your size"
+          },
+          {
+            "label": "Backing",
+            "value": "Drainage-friendly backing"
+          },
+          {
+            "label": "Use",
+            "value": "Lawns, balconies, terraces, play areas, shops"
+          }
+        ],
+        "care": [
+          "Brush the fibres now and then to keep them upright.",
+          "Rinse dust off with water.",
+          "Remove leaves and debris regularly."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Lush landscape grass",
+            "description": "Tall, dense green pile with a soft feel. The most natural-looking choice for lawns.",
+            "bestFor": "Home lawns, terraces",
+            "image": "/images/grass_t1.jpg"
+          },
+          {
+            "name": "Dual-tone natural grass",
+            "description": "Mixes green and yellow-green fibres, sometimes with a thatch layer, so it looks like real grass.",
+            "bestFor": "Gardens, commercial landscapes",
+            "image": "/images/grass_t2.jpg"
+          },
+          {
+            "name": "Short dense grass",
+            "description": "A low, tight pile that stays upright and is easy to keep neat.",
+            "bestFor": "Balconies, rooftops, play areas",
+            "image": "/images/grass_t3.jpg"
+          }
+        ],
+        "material": {
+          "text": "Artificial grass blades are made from plastic fibres tufted into a backing, with UV stabilisers added so the colour lasts outdoors.",
+          "components": [
+            "Polyethylene or polypropylene fibres",
+            "Latex or PU backing",
+            "UV stabilisers"
+          ],
+          "benefits": [
+            {
+              "title": "Always green",
+              "detail": "No browning in summer or winter."
+            },
+            {
+              "title": "Saves water",
+              "detail": "No watering or mowing needed."
+            },
+            {
+              "title": "Low upkeep",
+              "detail": "Brushing and rinsing is usually enough."
+            },
+            {
+              "title": "Use it all year",
+              "detail": "Works in gardens, balconies and play areas."
+            }
+          ]
+        },
+        "guide": {
+          "about": "Artificial grass is made of synthetic fibres, usually polyethylene or polypropylene, tufted into a backing.",
+          "made": "Fibres are tufted into the backing and coated to lock them in. UV stabilisers are added for outdoor use.",
+          "install": "Lay on a compacted base with a weed membrane, then fix the edges and brush the fibres upright.",
+          "pros": [
+            "Green all year with no watering",
+            "UV-stable for outdoor use",
+            "Ideal for small gardens and balconies"
+          ],
+          "cons": [
+            "Can get warm in strong sun",
+            "Needs a proper base for a flat finish"
+          ],
+          "faqs": [
+            {
+              "q": "Does it drain water?",
+              "a": "Good backings have drainage holes, and a proper base lets water pass through."
+            },
+            {
+              "q": "Is it suitable for kids and pets?",
+              "a": "It is commonly used in gardens and play areas. Pick a suitable pile height and ask us for product details."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "soffit",
+      "name": "Soffit Panels",
+      "tagline": "Modern ceiling finish.",
+      "description": "Stylish, durable soffit panels for modern ceilings and exterior applications, in wood tones and clean neutral shades.",
+      "sortOrder": 9,
+      "published": true,
+      "heroImage": "/images/soffit_h.jpg",
+      "swatchImage": "/images/soffit_s.jpg",
+      "content": {
+        "overview": "Soffit panels finish the underside of roofs, eaves and ceilings with a clean, modern line. They come in warm wood tones and neutral shades, and they handle outdoor conditions well.",
+        "features": [
+          {
+            "title": "Modern look",
+            "detail": "Slim lines that give ceilings a tidy look."
+          },
+          {
+            "title": "Weather resistant",
+            "detail": "Made to cope with sun, rain and humidity."
+          },
+          {
+            "title": "Low maintenance",
+            "detail": "No repainting needed."
+          },
+          {
+            "title": "Indoor & outdoor use",
+            "detail": "Porches, verandas, eaves and interior ceilings."
+          }
+        ],
+        "uses": [
+          "Porch and veranda ceilings",
+          "Roof overhangs and eaves",
+          "Interior feature ceilings"
+        ],
+        "varieties": [],
+        "specs": [
+          {
+            "label": "Style",
+            "value": "Slatted and plain soffit panels"
+          },
+          {
+            "label": "Colours",
+            "value": "Wood tones, black, white and grey"
+          },
+          {
+            "label": "Fixing",
+            "value": "Concealed clip or screw fixing"
+          },
+          {
+            "label": "Use",
+            "value": "Porches, overhangs, patios, feature ceilings"
+          }
+        ],
+        "care": [
+          "Wipe with a soft cloth and mild soap.",
+          "Keep gutters clear so water does not sit on panels.",
+          "Let the panels breathe with proper ventilation gaps."
+        ],
+        "gallery": [],
+        "types": [
+          {
+            "name": "Teak wood-look",
+            "description": "A wood-grain finish on WPC or similar boards, with slim grooves between slats.",
+            "bestFor": "Porches, verandas",
+            "image": "/images/soffit_t1.jpg"
+          },
+          {
+            "name": "Walnut wood-look",
+            "description": "A deeper brown to match dark doors and window frames.",
+            "bestFor": "Modern facades, covered patios",
+            "image": "/images/soffit_t2.jpg"
+          },
+          {
+            "name": "Black matt",
+            "description": "A solid dark finish for a sharp, contemporary line. Light dust may show.",
+            "bestFor": "Contemporary exteriors",
+            "image": "/images/soffit_t3.jpg"
+          },
+          {
+            "name": "White matt",
+            "description": "A clean white that reflects light and brightens covered spaces.",
+            "bestFor": "Eaves, interior ceilings",
+            "image": "/images/soffit_t4.jpg"
+          }
+        ],
+        "material": {
+          "text": "Soffit panels are formed from weather-resistant materials such as WPC or aluminium and finished in wood-look or solid colours.",
+          "components": [
+            "WPC or metal panels",
+            "Wood-look or solid finish",
+            "Concealed fixing clips"
+          ],
+          "benefits": [
+            {
+              "title": "Neat ceiling look",
+              "detail": "Clean lines cover rafters and wiring."
+            },
+            {
+              "title": "Weather resistant",
+              "detail": "Handles sun, rain and humidity."
+            },
+            {
+              "title": "Low maintenance",
+              "detail": "Wipe clean, no repainting."
+            },
+            {
+              "title": "Easy to fit",
+              "detail": "Panels clip or screw onto a frame."
+            }
+          ]
+        },
+        "guide": {
+          "about": "A soffit is the underside of a roof overhang, eave or ceiling. Soffit panels cover it neatly and hide the structure.",
+          "made": "Panels are made as slats or sheets from materials such as WPC or metal and finished in wood-look or solid colours.",
+          "install": "Fix to a level batten frame with clips or screws and leave ventilation gaps.",
+          "pros": [
+            "Clean, finished look",
+            "Weather resistant",
+            "Quick to fit"
+          ],
+          "cons": [
+            "Needs ventilation gaps",
+            "The fixing frame must be level"
+          ],
+          "faqs": [
+            {
+              "q": "Can soffit panels be used indoors?",
+              "a": "Yes, they work well as feature ceilings in living rooms, offices and covered patios."
+            },
+            {
+              "q": "Do they need painting?",
+              "a": "Factory-finished panels usually do not need painting."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
